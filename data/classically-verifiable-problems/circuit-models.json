@@ -20,5 +20,15 @@
         "gates": 1917
       }
     ]
+  },
+  "random_graph_sampling": {
+    "instances": [
+      {
+        "id": "random_graph_sampling_nq60_depth60_kc30_doped_338",
+        "path": "nq60_depth60_kc30_doped_338.qasm",
+        "qubits": 60,
+        "gates": 1770
+      }
+    ]
   }
 }
